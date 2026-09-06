@@ -186,6 +186,17 @@ img {
     border-style: none
 }
 
+#culture-section .historical-paintwork-entry--separated {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #d1d1d1;
+}
+
+#culture-section .historical-paintwork-entry--separated img {
+    width: 100%;
+    height: auto;
+}
+
 svg {
     overflow: hidden;
     vertical-align: middle
